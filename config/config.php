@@ -1,5 +1,6 @@
 <?php
 return[
-    'site_name'=>'qiye welcome'
+    'app_status'=>'home',
+    'trace'=>['type'=>'Console',],
 ];
 ?>
